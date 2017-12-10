@@ -20750,7 +20750,6 @@ fe80::1%lo0 localhost
 0.0.0.0 widget.plugrush.com
 0.0.0.0 webstats.plus.net
 0.0.0.0 pxl.pmsrvr.com
-# 0.0.0.0 po.st #[affects URL shortening]
 
 0.0.0.0 ads.po-zdravidnes.com
 0.0.0.0 static.pochta.ru
